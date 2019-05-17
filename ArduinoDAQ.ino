@@ -82,8 +82,8 @@ String distance_from_Shaft_to_Loadcell1;
 int testtype= 0;// Static or Dynamic - Defines the flight environement as static by default
 int fueltype= 0;//  Battery or Gasoline- Selects battery as default
 
-////////// GUAGES ////////////  Variables used in showing for values on Analog Guages. 
-// The below variables are used for mapping all the performance variables to 0 to 360.
+////////// GUAGES //////////// 
+// The below variables are used for mapping the performance parameters in degress from 0 to 360 to dispaly them on the guages.
 int x1;
 int x2;
 int x3;
